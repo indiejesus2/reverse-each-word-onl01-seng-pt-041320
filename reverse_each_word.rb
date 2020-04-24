@@ -7,7 +7,6 @@
 # end
 
 def reverse_each_word(flip)
-  reversed = []
   flip.split.collect {|flop| flop.reverse}.join(" ")
 end
 # =======

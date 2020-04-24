@@ -8,8 +8,7 @@
 
 def reverse_each_word(flip)
   reversed = []
-  flip.split.collect {|flop| reversed << flop.reverse}
-  reversed.join(" ")
+  flip.split.collect {|flop| flop.reverse}.join(" ")
 end
 =======
 # def reverse_each_word(flip)

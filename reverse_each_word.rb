@@ -16,10 +16,10 @@ end
 #   flip.collect {|flop| flop.reverse}
 # end
 
-def reverse_each_word(flip)
-  sandals = []
-  flip = flip.split
-  flip.collect {|flop| sandals << flop.reverse}
-  sandals.join(" ")
-end
->>>>>>> 199960c7a527b82bbd669f0299f3e886bca2e46e
+# def reverse_each_word(flip)
+#   sandals = []
+#   flip = flip.split
+#   flip.collect {|flop| sandals << flop.reverse}
+#   sandals.join(" ")
+# end
+# >>>>>>> 199960c7a527b82bbd669f0299f3e886bca2e46e

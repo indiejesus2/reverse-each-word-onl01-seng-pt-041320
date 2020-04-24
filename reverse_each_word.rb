@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 # def reverse_each_word(flip)
 #   trying = []
 #   trying << flip
